@@ -1,9 +1,5 @@
-<style>
-body {
-    font-family: "Times New Roman", Times, serif;
-    font-size: 12pt;
-}
-</style>
+<font face="Times New Roman">
+
 # Paso 1: Creación e inicialización del repositorio local
 En primer lugar, abrí mi terminal dentro del VSCode y me ubiqué dentro de la carpeta **Repositorios**. Allí creé el directorio **prueba2_daniel**, accedí a él e inicialicé el repositorio local con **git init**. A continuación, configuré la rama principal como **main** y creé dos archivos de texto (**archivo1.txt** y **archivo2.txt**) utilizando el comando **echo**. Por último, listé el contenido del directorio con **ls** para verificar que ambos ficheros se habían generado correctamente.
 ![Creación e inicialización del repositorio local](img/image-1.png)
@@ -23,3 +19,4 @@ Desde mi entorno local modifiqué **archivo1.txt** agregándole una nueva línea
 # Paso 5: Actualización de la versión local del repositorio en la MV Linux
 Por último, regresé a mi otro entorno local y ejecuté **git pull origin main** para descargar e integrar las actualizaciones realizadas. Finalmente, verifiqué el estado del repositorio con **git status** y listé el contenido detallado mediante **ls -la**, confirmando que los cambios y el nuevo archivo **archivo3.txt** estaban completamente al día.
 ![Actualización con git pull y verificación final](img/image-5.png)
+</font>
