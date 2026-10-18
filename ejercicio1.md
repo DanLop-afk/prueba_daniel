@@ -1,7 +1,8 @@
 <style>
 body {
     font-family: "Times New Roman", Times, serif;
-    font-size: 12pt;}
+    font-size: 12pt;
+}
 </style>
 # Paso 1: Creación e inicialización del repositorio local
 En primer lugar, abrí mi terminal dentro del VSCode y me ubiqué dentro de la carpeta **Repositorios**. Allí creé el directorio **prueba2_daniel**, accedí a él e inicialicé el repositorio local con **git init**. A continuación, configuré la rama principal como **main** y creé dos archivos de texto (**archivo1.txt** y **archivo2.txt**) utilizando el comando **echo**. Por último, listé el contenido del directorio con **ls** para verificar que ambos ficheros se habían generado correctamente.
