@@ -3,6 +3,7 @@
 ## Demostración de elementos de sintaxis
 
 En este párrafo de prueba estamos aprendiendo a dar formato al texto. Podemos resaltar palabras en **negrita**, colocar otras frases en *cursiva* para dar énfasis y mostrar elementos como `git status` redactados directamente en código.
+
 ---
 
 ```bash
