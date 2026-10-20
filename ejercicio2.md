@@ -1,4 +1,4 @@
-# Ejercicio 2: Introducción a Markdown
+# Documentación del Ejercicio 2: Introducción a Markdown
 
 ## Demostración de elementos de sintaxis
 
@@ -32,7 +32,7 @@ Lista Desordenada
 
 ---
 
-![Mapa del Perú](image-1.png)
+![Mapa del Perú](image.png)
 
 ---
 
